@@ -16,6 +16,7 @@ default: &default
   pool: 5
   username: doadmin
   password: nkfubzbm3ulqpahn
+  port: 25060
   
 development:
   <<: *default
